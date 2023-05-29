@@ -1,2 +1,2 @@
-# Calculadora de Conversão
-Calculadora para covnersão de metros para quilômetros usando a nova GUI do Tkinter
+# Biblioteca do meu progresso em Python com o Tkinter
+
